@@ -1,5 +1,5 @@
 {
-  "name": "JATE",
+  "name": "jate",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -26,5 +26,13 @@
     "webpack": "^5.75.0",
     "webpack-dev-server": "^4.11.1",
     "webpack-pwa-manifest": "^4.3.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CalvinDT/Text-Editor.git"
+  },
+  "bugs": {
+    "url": "https://github.com/CalvinDT/Text-Editor/issues"
+  },
+  "homepage": "https://github.com/CalvinDT/Text-Editor#readme"
 }
